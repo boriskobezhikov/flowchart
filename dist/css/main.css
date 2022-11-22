@@ -1,0 +1,31 @@
+body {
+  background-color: black;
+  font-family: "Vesper Libre", serif;
+}
+
+#navbaritems li {
+  font-size: medium;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+header {
+  background-color: rgb(32, 75, 42);
+}
+
+#makediv {
+  width: 930px;
+  height: 191px;
+  position: absolute;
+  font-size: 36px;
+  text-align: center;
+  color: white;
+  background-color: rgb(8, 46, 16);
+  border: 10px;
+  border-style: solid;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: table-cell;
+  vertical-align: middle;
+}/*# sourceMappingURL=main.css.map */
